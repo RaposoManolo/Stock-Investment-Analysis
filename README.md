@@ -14,7 +14,9 @@
    
 **Data sources**
 1.	Alpha Vantage
-2.	Financial Data Modeling Prep
+2.	img.logo.dev
+3.	CSV batch
+4.	Financial Data Modeling Prep
    
 **Metric Required** 
 1.	Selector and lisboxes 
