@@ -7,8 +7,6 @@
 3. Apply business logic to score companies based on financial performance
 4. Enable comparison across stocks
 
-<img width="1408" height="681" alt="Cover" src="https://github.com/user-attachments/assets/16dde229-e85c-41ed-abdc-e6e73f1c9e06" />
-
 </br>
 
 ****Data Scope****
@@ -30,6 +28,23 @@
 **Architecture** 
 <br>
 API > Power Query > Data Model > Power Dashboard
+
+**Cover Page**
+<img width="1408" height="681" alt="Cover" src="https://github.com/user-attachments/assets/ce211194-11f0-4f7b-a92d-1593b8f9bd5c" />
+
+**Stock Scorecard**
+
+<img width="1330" height="298" alt="image" src="https://github.com/user-attachments/assets/d55d0cb3-4fc6-44d1-a379-b38f8a9e6ea9" />
+<br>
+<br>
+<img width="1332" height="272" alt="image" src="https://github.com/user-attachments/assets/4531df3b-5820-4723-90d6-48a96ebabaed" />
+
+
+
+
+
+
+
 
 
 
