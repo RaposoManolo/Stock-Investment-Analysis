@@ -1,3 +1,15 @@
+## Interested in the Full Power BI Dashboard?
+
+The full Power BI dashboard, data model, and Power Query logic live in a 
+private repository to protect API keys and proprietary business logic.
+
+If you'd like access, please reach out via:
+- 📧 iuri.raposo19@gmail.com
+- 💼 https://www.linkedin.com/in/iurimanuelraposo/
+
+I'll grant you Collaborator access within 24 hours.
+
+
 # **Overall Objectives**
 
 **Project Goals**
